@@ -1,1 +1,1 @@
-Applikācījā ir iespēja ievadīt datus par piegādātājiem, pati applikācija ir Circle K krāsu gammā un ievadod dod iespēju pārslēgt uz "dark mode", lai būtu iespējams saudzēt acis, personām kas izmanto to.
+Applikācījā ir iespēja ievadīt datus par piegādātājiem, pati applikācija ir Circle K krāsu gammā un ievadod dod iespēju pārslēgt uz "dark mode", lai būtu iespējams saudzēt acis, personām kas izmanto to. Tas tiks realizēts izmantojot CSS uz Javascript
