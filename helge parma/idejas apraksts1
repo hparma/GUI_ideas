@@ -1,2 +1,2 @@
-Applikācījā ir iespēja ievadīt datus par piegādātājiem, pati applikācija ir Circle K krāsu gammā un ievadod dod iespēju pārslēgt uz "dark mode", lai būtu iespējams saudzēt acis, personām kas izmanto to. 
+Applikācija piedāvā pārslēgties no "light" uz "dark mode", lai būtu iespējams saudzēt acis, personām kas izmanto to.  To ir iespējams izdarīt pie menu pogas augšējā kreisajā stūrī
 Tas tiks realizēts izmantojot CSS uz Javascript
