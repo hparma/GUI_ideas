@@ -1,2 +1,2 @@
-Applikācijā, pirms reģistrējas ir iespēja samainīt valodu. Tas tiks darīts izmantojot CSS un javascript. Izvēloties valodu, visa noklusētā nomainās uz izvēlēto valodu. Valodu var nomainīt lappaspuses apakšā
-esot izvēlnes cilnei, kas parāda pašlaik esošo noklusējuma valodu
+Applikācijā, pirms reģistrējas ir iespēja samainīt noklusējuma valodu. Tas tiks darīts izmantojot CSS un javascript. Valodu var nomainīt lappaspuses apakšā esot ovālai izvēlnes cilnei, kas parāda pašlaik esošo noklusējuma valodu.
+Uzpiežot uz pogas parādās kvadrāts ar apaļiem stūriem, ar iespējamām izvēlēm.
